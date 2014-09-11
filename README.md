@@ -1,4 +1,4 @@
 Heal-The-World
 ==============
 
-JS13K!
+Pure javascript game for JS13K Competition.
