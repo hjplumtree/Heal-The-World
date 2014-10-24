@@ -2,7 +2,7 @@ Heal-The-World
 ==============
 
 Pure javascript game for JS13K Competition.
-
+http://js13kgames.com/entries/heal-the-world
 
 About the game
 =
